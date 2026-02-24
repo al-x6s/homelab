@@ -14,8 +14,8 @@ const config: Config = {
   },
 
   // GitHub Pages: https://al-x6s.github.io/homelab/
-  url: 'https://al-x6s.github.io',
-  baseUrl: '/homelab/',
+  url: 'https://alx6s.com',
+  baseUrl: '/',
   trailingSlash: false,
 
   // ✅ Your GitHub repo
